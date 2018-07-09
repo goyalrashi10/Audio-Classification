@@ -1,0 +1,9 @@
+@relation audio_classification
+@attribute 'avge' real
+@attribute 'zecr' real
+@attribute 'spce' real
+@attribute 'class' { Speech, Music}
+@data
+0.003944127021080931,0.0,0.11204822182252519,Music
+0.007104519557382446,-1.5625244144439756E-5,-2.4443470293430254,Speech
+8.042437358817551E-4,1.5625244144439756E-5,-28.26415588443338,Music
